@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<entry key="ConnectTimout">3000</entry>
+<entry key="ReadTimeout">5000</entry>
+<entry key="ThreadCount">30</entry>
+<entry key="URL">http://www.baidu.com/</entry>
+<entry key="KeyWord">百度</entry>
+</properties>
